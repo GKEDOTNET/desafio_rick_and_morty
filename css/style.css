@@ -1,0 +1,16 @@
+body {
+    background: url("../img/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+
+ul {
+    padding: 0;
+}
+
+.painel_personagem {
+    background:white;
+
+}
